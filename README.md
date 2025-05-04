@@ -2,7 +2,9 @@
 
 A **proof-of-concept** invoice generator built in Express + EJS, powered by GPT‑4 for dynamic intros and cost calculations.
 
-**🔗 Live Demo:** https://fast-woodland-96746-48811dd9ffb4.herokuapp.com/invoice/new
+**🔗 May 4, 2025 - Live Demo V2 (STILL MVP but with some upgrades):** https://invoizio-api-151423078ca5.herokuapp.com/
+**🔗 April 27, 2025 - Live Demo V1 (VERY MVP version):** https://fast-woodland-96746-48811dd9ffb4.herokuapp.com/invoice/new
+
 
 ---
 
